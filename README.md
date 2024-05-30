@@ -18,3 +18,15 @@ Losowanie hasła z listy słów
 Wyświetlanie dostępnych liter
 Pobieranie od gracza litery
 Sprawdzanie poprawności podanej litery
+
+
+
+
+
+
+
+słowa "kot", "pies", "dom", "szkola", "komputer", "telefon", "samochód", "rower", "książka", "zegarek"
+
+
+
+ilość prób:6
