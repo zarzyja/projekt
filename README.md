@@ -10,6 +10,7 @@ Podawanie liter:
 Gracz podaje pojedyncze litery, próbując odgadnąć hasło.
 Jeśli podana litera występuje w haśle, zostanie ona odkryta we wszystkich odpowiednich miejscach.
 Jeśli podana litera nie występuje w haśle, liczba dostępnych prób zmniejsza się o jeden.
+
 Wygrana i przegrana:
 
 Gracz wygrywa, jeśli odkryje wszystkie litery hasła przed wyczerpaniem prób.
