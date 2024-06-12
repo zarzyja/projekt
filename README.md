@@ -1,10 +1,4 @@
-"Wisielec" to popularna gra słowna, w której celem gracza jest odgadnięcie ukrytego słowa, podając pojedyncze litery. Gracz ma ograniczoną liczbę prób na odgadnięcie całego słowa. Każda błędnie podana litera zmniejsza liczbę dostępnych prób. Gra kończy się sukcesem, jeśli gracz odgadnie wszystkie litery słowa, lub porażką, jeśli wykorzysta wszystkie próby.
 
-
-Oczywiście, oto przykładowy plik README dla projektu gry "Wisielec" w Javie:
-
-Wisielec (Hangman) - Gra w Javie
-Opis
 "Wisielec" to popularna gra słowna, w której celem gracza jest odgadnięcie ukrytego słowa, podając pojedyncze litery. Gracz ma ograniczoną liczbę prób na odgadnięcie całego słowa. Każda błędnie podana litera zmniejsza liczbę dostępnych prób. Gra kończy się sukcesem, jeśli gracz odgadnie wszystkie litery słowa, lub porażką, jeśli wykorzysta wszystkie próby.
 
 Rozpoczęcie gry:
